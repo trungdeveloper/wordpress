@@ -1,0 +1,16 @@
+.hide_banner
+{
+    display: none !important ;
+}
+.hide_search
+{
+    display: none !important;
+}
+
+.hide_upload_img
+{
+    display: none !important;
+}
+.ui-widget-content.ui-autocomplete {
+   z-index: 999999;
+}

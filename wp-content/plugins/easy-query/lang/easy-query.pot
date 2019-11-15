@@ -1,0 +1,828 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Load More\n"
+"POT-Creation-Date: 2016-12-14 16:51-0500\n"
+"PO-Revision-Date: 2016-12-14 16:51-0500\n"
+"Last-Translator: Darren Cooney <dcooney@ecentricarts.com>\n"
+"Language-Team: \n"
+"Language: en_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/admin.php:26
+msgid "Active"
+msgstr ""
+
+#: ../admin/admin.php:27
+msgid "Inactive"
+msgstr ""
+
+#: ../admin/admin.php:156 ../admin/admin.php:181 ../easy-query.php:159
+msgid "Settings"
+msgstr ""
+
+#: ../admin/admin.php:161 ../admin/admin.php:194
+#: ../admin/shortcode-builder/shortcode-builder.php:87
+#: ../admin/views/template.php:4
+msgid "Template"
+msgstr ""
+
+#: ../admin/admin.php:166 ../admin/admin.php:199
+#: ../admin/views/query-builder.php:5 ../admin/views/query-builder.php:12
+#: ../easy-query.php:160
+msgid "Query Builder"
+msgstr ""
+
+#: ../admin/admin.php:171 ../admin/admin.php:204
+#: ../admin/includes/cta/about.php:19 ../admin/views/examples.php:5
+msgid "Examples"
+msgstr ""
+
+#: ../admin/admin.php:176 ../admin/admin.php:209 ../admin/views/pro.php:6
+msgid "Pro"
+msgstr ""
+
+#: ../admin/admin.php:189
+msgid "Dashboard"
+msgstr ""
+
+#: ../admin/admin.php:351
+msgid "Error Opening File"
+msgstr ""
+
+#: ../admin/admin.php:353 ../admin/admin.php:357
+msgid ""
+"Please check your file path and ensure your server is configured to allow "
+"Easy Query to read and write files within the /easy-query/ plugin directory"
+msgstr ""
+
+#: ../admin/admin.php:355
+msgid "Error Saving File"
+msgstr ""
+
+#: ../admin/admin.php:382
+msgid "Error Writing File"
+msgstr ""
+
+#: ../admin/admin.php:387 ../admin/admin.php:428 ../admin/admin.php:474
+msgid "You don't belong here."
+msgstr ""
+
+#: ../admin/admin.php:506
+msgid "Disable CSS"
+msgstr ""
+
+#: ../admin/admin.php:514
+msgid "Editor Button"
+msgstr ""
+
+#: ../admin/admin.php:522
+msgid "Dynamic Content"
+msgstr ""
+
+#: ../admin/admin.php:539
+msgid ""
+"Customize your version of Easy Query by updating the various settings below."
+msgstr ""
+
+#: ../admin/admin.php:568
+msgid "Hide Query Builder button in WYSIWYG editor."
+msgstr ""
+
+#: ../admin/admin.php:588
+msgid "I want to use my own CSS styles"
+msgstr ""
+
+#: ../admin/admin.php:588
+msgid "View Easy Query CSS"
+msgstr ""
+
+#: ../admin/admin.php:608
+msgid ""
+"Disable dynamic population of categories, tags and authors in the Query "
+"Builder.<span style=\"display:block\">Recommended only if you have an "
+"extraordinary number of categories, tags and/or authors."
+msgstr ""
+
+#: ../admin/editor/editor-build.php:40
+msgid "Jump to Option"
+msgstr ""
+
+#: ../admin/editor/editor-build.php:44
+msgid "Build your own Easy Query shortcode by adjusting the parameters below:"
+msgstr ""
+
+#: ../admin/editor/editor-build.php:51
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../admin/editor/editor-build.php:54
+msgid "Copy"
+msgstr ""
+
+#: ../admin/editor/editor.php:17
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../admin/includes/components/repeater-options.php:2
+#: ../admin/shortcode-builder/shortcode-builder.php:14
+msgid "Options"
+msgstr ""
+
+#: ../admin/includes/components/repeater-options.php:6
+msgid "Update Template from DB"
+msgstr ""
+
+#: ../admin/includes/components/repeater-options.php:7
+msgid "Copy Template Data"
+msgstr ""
+
+#: ../admin/includes/components/template.php:15 ../admin/views/template.php:35
+msgid "Template Alias"
+msgstr ""
+
+#: ../admin/includes/components/template.php:21 ../admin/views/template.php:41
+msgid "Template ID"
+msgstr ""
+
+#: ../admin/includes/components/template.php:27
+msgid "Enter the HTML and PHP code for this template"
+msgstr ""
+
+#: ../admin/includes/components/template.php:44 ../admin/views/template.php:60
+msgid "Save Template"
+msgstr ""
+
+#: ../admin/includes/components/template.php:47
+msgid "Undo"
+msgstr ""
+
+#: ../admin/includes/cta/about.php:2
+msgid "About the Plugin"
+msgstr ""
+
+#: ../admin/includes/cta/about.php:4
+msgid ""
+"Easy Query is the fastest and simplest way to build complex WordPress "
+"queries without touching a single line of code"
+msgstr ""
+
+#: ../admin/includes/cta/about.php:16
+msgid "Quick Links"
+msgstr ""
+
+#: ../admin/includes/cta/about.php:17
+msgid "Official Website"
+msgstr ""
+
+#: ../admin/includes/cta/about.php:18
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/includes/cta/about.php:20 ../admin/views/pro.php:55
+msgid "Support"
+msgstr ""
+
+#: ../admin/includes/cta/extend.php:3
+msgid "Unlock unlimited templates with"
+msgstr ""
+
+#: ../admin/includes/cta/extend.php:3
+#: ../admin/shortcode-builder/shortcode-builder.php:78
+#: ../admin/shortcode-builder/shortcode-builder.php:284
+#: ../admin/shortcode-builder/shortcode-builder.php:324
+msgid "Easy Query Pro"
+msgstr ""
+
+#: ../admin/includes/cta/plugins.php:2
+msgid "Other Plugins"
+msgstr ""
+
+#: ../admin/includes/cta/pro.php:3
+msgid "Get Easy Query Pro"
+msgstr ""
+
+#: ../admin/includes/cta/pro.php:4
+msgid "Upgrading to Easy Query Pro unlocks added features and functionality."
+msgstr ""
+
+#: ../admin/includes/cta/pro.php:5 ../admin/includes/cta/templating.php:6
+msgid "Learn More"
+msgstr ""
+
+#: ../admin/includes/cta/templating.php:2
+msgid "Templating Help"
+msgstr ""
+
+#: ../admin/includes/cta/templating.php:5
+msgid "What is a template?"
+msgstr ""
+
+#: ../admin/includes/cta/templating.php:6
+msgid ""
+"A template is essentially a snippet of code that will execute over and over "
+"within a <a href=\"http://codex.wordpress.org/The_Loop\" target=\"_blank"
+"\">WordPress loop</a>. Easy Query uses templates to display data retrieved "
+"from a WP Query."
+msgstr ""
+
+#: ../admin/includes/cta/templating.php:8
+msgid "Can I include PHP in a template?"
+msgstr ""
+
+#: ../admin/includes/cta/templating.php:9
+msgid ""
+"Yes, PHP and core WordPress functions such as, <code>the_title()</code> and "
+"<code>the_permalink()</code> are required."
+msgstr ""
+
+#: ../admin/includes/cta/writeable.php:2
+msgid "Read/Write Access"
+msgstr ""
+
+#: ../admin/includes/cta/writeable.php:11
+msgid ""
+"Read/Write access is enabled within the /easy-query/core/templates/ "
+"directory."
+msgstr ""
+
+#: ../admin/includes/cta/writeable.php:15
+msgid ""
+"Access Denied! You must enable read and write access for the Easy Query "
+"directory (/easy-query/core/template/) in order to save template data.<br/"
+"><br/>Please contact your hosting provider or site administrator for more "
+"information."
+msgstr ""
+
+#: ../admin/includes/cta/writeable.php:20
+msgid ""
+"Unable to locate configuration file. Directory access may not be granted."
+msgstr ""
+
+#: ../admin/query-generator/generator.php:6
+msgid ""
+"View your generated WP_Query() with <a target=\"_parent\" href=\"https://"
+"connekthq.com/plugins/easy-query/\">Easy Query Pro"
+msgstr ""
+
+#: ../admin/query-generator/generator.php:13
+#, fuzzy
+msgid "Save Your Query"
+msgstr "tous nos donateurs"
+
+#: ../admin/query-generator/generator.php:15
+msgid "Query Alias"
+msgstr ""
+
+#: ../admin/query-generator/generator.php:16
+msgid "Enter a query alias"
+msgstr ""
+
+#: ../admin/query-generator/generator.php:19
+msgid "Save Query"
+msgstr ""
+
+#: ../admin/query-generator/generator.php:23
+msgid ""
+"Save, edit and delete past queries with <a href=\"https://connekthq.com/"
+"plugins/easy-query/\" target=\"_parent\">Easy Query Pro</a>"
+msgstr ""
+
+#: ../admin/query-generator/generator.php:27
+msgid "About Your Query"
+msgstr ""
+
+#: ../admin/query-generator/generator.php:29
+msgid ""
+"This WP_Query has been generated by the selected parameters on the Query "
+"Builder page. To make adjustments to this query you should return to the "
+"Query Builder."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:1
+#: ../admin/views/examples.php:12
+msgid "Collapse All"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:1
+#: ../admin/views/examples.php:12
+msgid "Expand All"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:17
+msgid "Type"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:18
+msgid "Select the container type that will wrap your Easy Query content."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:25
+msgid "&lt;ul&gt;<span>&lt;!-- posts --&gt;</span>&lt;/ul&gt;"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:29
+msgid "&lt;ol&gt;<span>&lt;!-- posts --&gt;</span>&lt;/ol&gt;"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:33
+msgid "&lt;div&gt;<span>&lt;!-- posts --&gt;</span>&lt;/div&gt;"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:42
+msgid "Classes"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:43
+msgid "Target your content by adding custom classes to the container."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:56
+msgid "Paging"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:59
+msgid "Enable"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:60
+msgid ""
+"Allow Easy Query to page content.<br/><em>e.g. Page: <a href=\"javascript:"
+"void(0);\">1</a> <a href=\"javascript:void(0);\">2</a> <a href=\"javascript:"
+"void(0);\">3</a></em>"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:67
+msgid "True"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:71
+msgid "False"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:78
+msgid "Unlock pagination styles with"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:90
+msgid ""
+"Select the Easy Query <a href=\"options-general.php?page=easy-"
+"query&tab=templates\" target=\"_parent\">template</a> you would like to use."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:113
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:116
+msgid "Select the number of posts to load with each request."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:137
+msgid "Post Types"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:140
+msgid "Select Post Types to query."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:166
+#: ../admin/views/examples.php:25
+msgid "Category"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:170
+msgid ""
+"A comma separated list of categories to include by id. (8, 15, 22 etc...)"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:172
+#: ../admin/shortcode-builder/shortcode-builder.php:233
+#: ../admin/shortcode-builder/shortcode-builder.php:409
+msgid "view example"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:194
+#: ../admin/shortcode-builder/shortcode-builder.php:254
+msgid "Exclude"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:195
+msgid ""
+"A comma separated list of categories to exclude by ID. (3, 12, 35 etc..)"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:229
+#: ../admin/views/examples.php:55
+msgid "Tag"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:232
+msgid "Include"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:233
+msgid "A comma separated list of tags to include by id. (199, 231, 80 etc...)"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:255
+msgid "A comma separated list of tags to exclude by ID. (30, 12, 99 etc..)"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:281
+msgid "Taxonomy"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:284
+msgid "Unlock taxonomy queries with"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:293
+msgid "Date"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:296
+msgid ""
+"Enter a year, month(number) and day to query by date archive.<br/>&raquo; <a "
+"href=\"options-general.php?page=easy-query&tab=exampless#example-date\">view "
+"example</a>"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:302
+msgid "Year:"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:306
+msgid "Month:"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:310
+msgid "Day:"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:321
+msgid "Custom Fields (Meta Query)"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:324
+msgid "Unlock custom field queries with"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:339
+#: ../admin/views/examples.php:15
+msgid "Author"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:342
+msgid "Select an Author to query(by ID)."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:347
+msgid "Select Author"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:363
+msgid "Custom Arguments"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:366
+msgid ""
+"A semicolon separated list of custom value:pair arguments.<br/><br/>e.g. "
+"tag_slug__and:design,development; event_display:upcoming. Default"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:370
+msgid "event_display:upcoming"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:378
+msgid "Search Term"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:381
+msgid "Enter a search term to query."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:385
+msgid "Enter search term"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:393
+msgid "Post Parameters"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:397
+msgid "A comma separated list of post ID's to include in query."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:409
+msgid "A comma separated list of post ID's to exclude from query."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:421
+msgid "Post Status"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:424
+msgid "Select status of the post."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:443
+msgid "Ordering"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:446
+msgid "Sort posts by Order and Orderby parameters."
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:475
+msgid "Offset"
+msgstr ""
+
+#: ../admin/shortcode-builder/shortcode-builder.php:478
+msgid "Offset the initial WordPress query by <em>'n'</em> number of posts"
+msgstr ""
+
+#: ../admin/views/examples.php:6
+msgid "A collection of shortcode examples to get you up and running quickly"
+msgstr ""
+
+#: ../admin/views/examples.php:17
+msgid "Shortcode for use on author(author.php) archive pages."
+msgstr ""
+
+#: ../admin/views/examples.php:27
+msgid "Shortcode for use on category(category.php) archive pages."
+msgstr ""
+
+#: ../admin/views/examples.php:35
+msgid "Date Archives"
+msgstr ""
+
+#: ../admin/views/examples.php:37
+msgid "Shortcode for use for archiving by date."
+msgstr ""
+
+#: ../admin/views/examples.php:45
+msgid "Excluding Posts"
+msgstr ""
+
+#: ../admin/views/examples.php:47
+msgid "Shortcode for excluding an array of posts."
+msgstr ""
+
+#: ../admin/views/examples.php:57
+msgid "Shortcode for use on (tag.php) tag pages."
+msgstr ""
+
+#: ../admin/views/examples.php:64 ../admin/views/query-builder.php:25
+msgid "Back to Top"
+msgstr ""
+
+#: ../admin/views/pro.php:7
+msgid "Upgrade to <a href=\""
+msgstr ""
+
+#: ../admin/views/pro.php:21
+msgid ""
+"Upgrade to <strong>Easy Query Pro</strong> for as little as $35 USD and get "
+"these additional features and more"
+msgstr ""
+
+#: ../admin/views/pro.php:28
+msgid "Unlimited Templates"
+msgstr ""
+
+#: ../admin/views/pro.php:29
+msgid ""
+"Create, modify and delete Easy Query templates as you need them with zero "
+"restrictions."
+msgstr ""
+
+#: ../admin/views/pro.php:33
+msgid "Saved Queries"
+msgstr ""
+
+#: ../admin/views/pro.php:34
+msgid "Save, edit and delete past queries using the custom query editor.\n"
+msgstr ""
+
+#: ../admin/views/pro.php:39
+msgid "Additional Query Arguments"
+msgstr ""
+
+#: ../admin/views/pro.php:40
+msgid "Unlock additional query parameters such a taxonomy and custom fields.\n"
+msgstr ""
+
+#: ../admin/views/pro.php:45
+msgid "Paging Styles"
+msgstr ""
+
+#: ../admin/views/pro.php:46
+msgid "Unlock paging styles and colors."
+msgstr ""
+
+#: ../admin/views/pro.php:50
+msgid "Multisite Compatibility"
+msgstr ""
+
+#: ../admin/views/pro.php:51
+msgid ""
+"Install and manage Easy Query templates and queries across multiple sites in "
+"your network."
+msgstr ""
+
+#: ../admin/views/pro.php:56
+msgid "Get unlimited support and technical assistance for 1 year."
+msgstr ""
+
+#: ../admin/views/pro.php:61
+msgid "Upgrade Now"
+msgstr ""
+
+#: ../admin/views/pro.php:72
+msgid "Pro Updates"
+msgstr ""
+
+#: ../admin/views/pro.php:74
+msgid ""
+"<strong>Easy Query Pro</strong> is installed as stand alone plugin and will "
+"receive plugin update notifications directly within the <a href=\"plugins.php"
+"\">WordPress Plugin dashboard</a>."
+msgstr ""
+
+#: ../admin/views/pro.php:77
+msgid "Get Pricing"
+msgstr ""
+
+#: ../admin/views/query-builder.php:6
+msgid ""
+"Create your own Easy Query <a href=\"http://en.support.wordpress.com/"
+"shortcodes/\" target=\"_blank\">Shortcode</a> by adjusting the parameters "
+"below."
+msgstr ""
+
+#: ../admin/views/query-builder.php:13
+msgid "WP_Query Generator"
+msgstr ""
+
+#: ../admin/views/query-builder.php:39
+msgid "Shortcode Output"
+msgstr ""
+
+#: ../admin/views/query-builder.php:41
+msgid ""
+"Add the following shortcode into the content editor, template file or widget "
+"area of your theme."
+msgstr ""
+
+#: ../admin/views/query-builder.php:45
+msgid "Clear all Query Builder settings"
+msgstr ""
+
+#: ../admin/views/query-builder.php:45
+msgid "Reset"
+msgstr ""
+
+#: ../admin/views/query-builder.php:48
+msgid "Copy Shortcode"
+msgstr ""
+
+#: ../admin/views/settings.php:11
+msgid "Your settings have been saved."
+msgstr ""
+
+#: ../admin/views/settings.php:24
+msgid "Easy Query Options"
+msgstr ""
+
+#: ../admin/views/settings.php:36
+msgid "Save Settings"
+msgstr ""
+
+#: ../admin/views/settings.php:52
+msgid "Sorry, settings could not be saved."
+msgstr ""
+
+#: ../admin/views/template.php:5
+msgid "The library of Easy Query templates for use throughout your theme"
+msgstr ""
+
+#: ../admin/views/template.php:30
+msgid "Default Template"
+msgstr ""
+
+#: ../admin/views/template.php:46
+msgid "Enter the HTML and PHP code for the Default template"
+msgstr ""
+
+#: ../admin/views/template.php:126
+msgid "Saving template..."
+msgstr ""
+
+#: ../admin/views/template.php:158
+msgid "Something went wrong and the data could not be saved."
+msgstr ""
+
+#: ../admin/views/template.php:196
+msgid "Updating template..."
+msgstr ""
+
+#: ../admin/views/template.php:217
+msgid "Template Updated"
+msgstr ""
+
+#: ../core/paging.php:40
+#, fuzzy
+msgid "Previous Page"
+msgstr "Imprimer cette page"
+
+#: ../core/paging.php:68
+#, fuzzy
+msgid "Next Page"
+msgstr "Imprimer cette page"
+
+#: ../easy-query.php:49
+msgid "You must de-activate Easy Query Pro before activating Easy Query."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Your Saved Query"
+#~ msgstr "tous nos donateurs"
+
+#, fuzzy
+#~ msgid "Error"
+#~ msgstr "Erreur 404 "
+
+#~ msgid "Sorry, the page you have requested cannot be found."
+#~ msgstr "Désolé, la page que vous demandez est introuvable."
+
+#~ msgid ""
+#~ "Be sure to check your spelling. If all else fails, you can go back to the "
+#~ "page you came from, return to the <a href=\"/\">homepage</a>, or try "
+#~ "searching."
+#~ msgstr ""
+#~ "Veuillez vérifier l'orthographe. Si tout échoue, retournez à la page "
+#~ "précédente, retournez à la <a href=\"/\">page d'accueil</a>, ou essayez "
+#~ "une recherche."
+
+#~ msgid "Connect with Willow"
+#~ msgstr "Connectez-vous avec Willow"
+
+#~ msgid ""
+#~ "Sign up to stay in touch and receive Willow news, updates and event "
+#~ "information."
+#~ msgstr ""
+#~ "Inscrivez-vous pour rester en contact avec nous et recevoir des nouvelles "
+#~ "de Willow (Disponibles en anglais seulement)"
+
+#~ msgid "call our helpline"
+#~ msgstr "Appelez notre ligne de soutien"
+
+#~ msgid "share"
+#~ msgstr "Partager"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Partager sur Twitter"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Partager sur Facebook"
+
+#~ msgid "Share via Email"
+#~ msgstr "Partager par courriel"
+
+#~ msgid "Your search returned <strong>%s</strong> result%s"
+#~ msgstr "Votre recherche a généré <strong>%s</strong>  résultat%s "
+
+#~ msgid "search"
+#~ msgstr "Recherche"
+
+#~ msgid "Showing"
+#~ msgstr "Montrant"
+
+#~ msgid "result(s) in"
+#~ msgstr "résultat(s) dans"
+
+#~ msgid "For more information please contact:"
+#~ msgstr "Pour de plus amples renseignements, veuillez contacter : "
+
+#~ msgid "filter support groups"
+#~ msgstr "Filtrer les groupes de soutien"
+
+#~ msgid "select a province and city to find a support group"
+#~ msgstr ""
+#~ "Sélectionnez votre province et votre ville pour trouver un groupe de "
+#~ "soutien"
+
+#~ msgid "-- Select Province --"
+#~ msgstr "Sélectionnez province"
+
+#~ msgid "Filter"
+#~ msgstr "Filtrer"
